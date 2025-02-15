@@ -18,7 +18,7 @@
   <a href="mailto:contact@neeraaa0.xyz">
     <img src="https://img.shields.io/badge/Email-00C2CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="@arshadspud">
+  <a href="https://t.me/arshadspud">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
