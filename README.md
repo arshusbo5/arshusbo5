@@ -5,22 +5,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=440&height=45&lines=BCA+Student;Tech+Enthusiast;AI+%26+ML+Explorer;IoT+Developer)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/neeraj-x0">
+  <a href="https://www.linkedin.com/in/arsj-x0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCqbcy-B-6mvIHMHsN9SMhPQ">
+  <a href="https://www.youtube.com/channel/UCFTHmFHl_AUvnj8PPNFzqNg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/neeraj.x0">
+  <a href="https://www.instagram.com/arshuuuh.__/?igsh=cmpuengwYzFlZzg0">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discordapp.com/users/neerajx0">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:contact@neerajx0.xyz">
+ 
+  <a href="mailto:contact@neeraaa0.xyz">
     <img src="https://img.shields.io/badge/Email-00C2CB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://t.me/neeraj_x0">
+  <a href="@arshadspud">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
